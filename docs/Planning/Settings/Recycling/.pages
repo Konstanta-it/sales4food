@@ -1,0 +1,8 @@
+title: Переработка
+collapse: false
+arrange:
+    - CalendarProductionRecycling.md
+    - BasicProductsFinishedProducts.md
+    - RegulatoryStocksBasicProducts.md
+    - IntervalsLaunchBatchesOfBaseProducts.md
+    - SetUpPlanningReleaseRework.md

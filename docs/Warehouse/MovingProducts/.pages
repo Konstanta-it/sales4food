@@ -1,0 +1,8 @@
+title: Перемещение между складами
+collapse: false
+arrange:
+    - TransferOrder.md
+    - ShipmentPlanning.md
+    - ShipmentMonitoring.md
+    - Acceptance.md
+    - TransferProducts.md

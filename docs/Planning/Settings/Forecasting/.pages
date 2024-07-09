@@ -1,0 +1,6 @@
+title: Прогнозирование
+collapse: false
+arrange:
+    - WeightDaysBalance.md
+    - RulesCalculatingShipments.md
+    - ApplicationRulesCalculatingShipments.md

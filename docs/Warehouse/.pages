@@ -1,0 +1,7 @@
+title: Складская логистика
+collapse: false
+arrange:
+    - SimpleWarehouse
+    - AddressWarehouse
+    - LocationOfContainers
+    - MovingProducts

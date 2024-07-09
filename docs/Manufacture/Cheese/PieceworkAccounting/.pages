@@ -1,0 +1,10 @@
+title:  Учет сдельной оплаты
+arrange:
+    - Settings.md
+    - DataFilling
+    - SettingRulesForAccountingWork
+    - SettingCostOfWorkOperations
+    - SettingTeamComposition
+    - EarlyLeaveWork
+    - AccountingOfPiecework
+    - CloseWorkShift

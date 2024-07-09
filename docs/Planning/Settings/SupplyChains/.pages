@@ -1,0 +1,8 @@
+title: Цепочки поставок
+collapse: false
+arrange:
+    - BufferSize.md
+    - SupportSchemes.md
+    - AssignmentSupportSchemes.md
+    - SupplyChainPlanningScenarios.md
+    - AssignmentProvisioningSchemes.md

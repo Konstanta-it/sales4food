@@ -1,0 +1,5 @@
+title: Планирование цепочек поставок
+collapse: false
+arrange:
+    - NeedsPlanning.md
+    - SupplyChainPlanning.md

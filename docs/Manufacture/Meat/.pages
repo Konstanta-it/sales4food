@@ -1,0 +1,14 @@
+title: Мясное производство
+collapse: false
+arrange:
+    - CommonInformation
+    - AcceptOfSpicesMeatVegetables
+    - Preparation
+    - Livestock
+    - Boning
+    - ProcessingWithoutAdditives
+    - ProcessingWithTheAddition
+    - PicklingSalting
+    - SausageProduction
+    - PackagingAndLabeling
+    - ControlOfShiftResults

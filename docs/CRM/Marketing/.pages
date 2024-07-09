@@ -1,0 +1,7 @@
+title: Маркетинг
+collapse: false
+arrange:
+    - MarketingEventProfiles.md
+    - MarketingEvent.md
+    - CompletionMarketingEvent.md
+    - Reports

@@ -1,0 +1,12 @@
+title: Молочное производство
+collapse: false
+arrange:
+    - CommonInformation
+    - MilkReceiving
+    - Separation
+    - Normalization
+    - Fermentation
+    - Bottling
+    - Marking
+    - CalculationOfPrimeCost
+    - PieceworkAccounting

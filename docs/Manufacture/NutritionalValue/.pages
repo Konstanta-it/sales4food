@@ -1,0 +1,7 @@
+title: Пищевая ценность
+collapse: false
+arrange:
+    - CommonInformation
+    - MaterialsNutritionalValue.md
+    - CalculationNutritionalValue.md
+    - TreeNutritionalValue.md

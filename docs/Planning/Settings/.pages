@@ -1,0 +1,8 @@
+title: Настройки планирования
+collapse: false
+arrange:
+    - GeneralSettings.md
+    - Planning
+    - Recycling
+    - Forecasting
+    - SupplyChains
