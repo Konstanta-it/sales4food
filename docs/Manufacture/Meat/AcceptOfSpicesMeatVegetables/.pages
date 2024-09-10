@@ -1,7 +1,0 @@
-title: Приемка сырья
-arrange:
-    - CreatePlanOfAccept.md
-    - AcceptOfLivestock.md
-    - AcceptOfSpicesMeat.md
-    - AcceptOfHalfCarcass.md
-    - Rejection.md

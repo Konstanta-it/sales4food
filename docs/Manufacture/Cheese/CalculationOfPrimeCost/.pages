@@ -1,8 +1,0 @@
-title:  Анализ сырьевой себестоимости
-arrange:
-    - SettingCostOfMaterials
-    - SettingFixCost
-    - CalculationPlannedCost
-    - CalculationFactCost
-    - AnalysisPrimeCost
-    - AnalysisDynamicOfCost

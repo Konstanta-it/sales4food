@@ -1,8 +1,0 @@
-title: Учет нарезки сыра
-arrange:
-    - DataFilling
-    - MovingCheeseForSlicing
-    - AccountingCheeseFixedWeight
-    - AccountingCheeseNoFixedWeight
-    - AccountingCheeseIndustrialProcessing
-

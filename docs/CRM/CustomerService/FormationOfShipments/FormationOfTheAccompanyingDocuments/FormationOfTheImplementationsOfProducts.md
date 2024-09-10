@@ -121,6 +121,19 @@
 
 [![18][18]][18]
 
+После создания распоряжения на отгрузку на вкладке "Формирование накладных" АРМа можно распределить отгруженные товары по основаниям. Например, у нас в одном плане отгрузки было несколько заказов, но мы не смогли полностью отгрузить товары и обеспечить все заказы. 
+Выбираем из списка нужное распоряжение и нажимаем на кнопку **"Распределить отгрузки по заказам"**. 
+
+[![19][19]][19]
+
+Открывается форма "Распределение отгрузки по заказам". В левой части находится отгруженная номенклатура, в правой – основания для отгрузки. С помощью стрелок или перетаскивания мышью можно вручную распределить номенклатуры по основаниям. Сохранить изменения нужно по кнопке **"Подтвердить"**.
+
+[![20][20]][20]
+
+Перенесем все товары в первый заказ и сохраним. Тогда в списке для формирования накладных у нас останется только этот заказ, т.к. в других не осталось товаров.
+
+[![21][21]][21]
+
 [1]: FormationOfTheImplementationsOfProducts.assets/1.png
 [2]: FormationOfTheImplementationsOfProducts.assets/2.png
 [3]: FormationOfTheImplementationsOfProducts.assets/3.png
@@ -139,3 +152,6 @@
 [16]: FormationOfTheImplementationsOfProducts.assets/16.png
 [17]: FormationOfTheImplementationsOfProducts.assets/17.png
 [18]: FormationOfTheImplementationsOfProducts.assets/18.png
+[19]: FormationOfTheImplementationsOfProducts.assets/19.png
+[20]: FormationOfTheImplementationsOfProducts.assets/20.png
+[21]: FormationOfTheImplementationsOfProducts.assets/21.png
