@@ -1,0 +1,5 @@
+title: Отгрузка со складов с резервами
+collapse: false
+arrange:
+    - ResSimpleWarehouse.md
+    - ResAdressWarehouse.md

@@ -1,8 +1,0 @@
-title: Нормализация
-arrange:
-    - DataFilling
-    - TaskForShift
-    - NormalizedMilkOutput
-    - LaboratoryAnalysis
-    - TransferMilkToCheeseMaker
-    - CheckWorkShift

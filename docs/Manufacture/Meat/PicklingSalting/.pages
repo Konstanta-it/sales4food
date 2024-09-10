@@ -1,7 +1,0 @@
-title: Маринование, посол
-collapse: false
-arrange:
-    - CreateTaskForAPickling.md
-    - Pickling.md
-    - CreateTaskForASalting.md
-    - Salting.md

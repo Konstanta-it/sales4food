@@ -1,7 +1,0 @@
-title: Сепарация
-arrange:
-    - DataFilling
-    - CreamOutput
-    - SkimMilkOutput
-    - LaboratoryAnalysis
-    - CheckWorkShift
