@@ -3,8 +3,8 @@ site_url: 'https://Konstanta-it.github.io/sales4food/'
 
 theme:
   name: 'material'
-  logo: 'assets/images/logo.png'
-  favicon: 'assets/images/favicon.ico'
+  logo: 'assets/images/logo1.png'
+  favicon: 'assets/images/favicon1.ico'
   language: ru
   palette:
     primary: 'blue'
