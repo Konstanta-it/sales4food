@@ -17,3 +17,4 @@
 
 [1]: CheckingTheEDIPrice.assets/EDIOrder.png
 [2]: CheckingTheEDIPrice.assets/FailedCheck.png
+[3]: CheckingTheEDIPrice.assets/Report.png
