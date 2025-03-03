@@ -15,4 +15,3 @@ arrange:
     - CheckingTheNumberOfDaysOfDeferredPayment.md
     - CheckingTheOrderAcceptanceTime.md
     - CheckingThePrice.md
-    - CheckingTheEDIPrice.md
