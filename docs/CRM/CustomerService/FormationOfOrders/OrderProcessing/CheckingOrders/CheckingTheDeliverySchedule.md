@@ -34,8 +34,11 @@
 
 Проверка по графику доставки не пройдет, потому что вторник не является днем доставки для точки доставки АШАН, Родионова, 187. Об этом будет написано в сообщении при нажатии на гиперссылку *"Успешно 12 из 13"* (13 - количество включенных проверок, 12 - количество пройденных проверок).
 
+[![6][6]][6]
+
 [1]: CheckingTheDeliverySchedule.assets/1.png
 [2]: CheckingTheDeliverySchedule.assets/2.png
 [3]: CheckingTheDeliverySchedule.assets/3.png
 [4]: CheckingTheDeliverySchedule.assets/4.png
 [5]: CheckingTheDeliverySchedule.assets/5.png
+[6]: CheckingTheDeliverySchedule.assets/6.png
