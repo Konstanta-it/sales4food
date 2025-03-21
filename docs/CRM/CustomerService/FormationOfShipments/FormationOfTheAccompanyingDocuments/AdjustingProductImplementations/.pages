@@ -1,5 +1,6 @@
 title: Корректировка накладных
 collapse: false
 arrange:
-    - AdjustingProductImplementations.md
-    - RegistrationOfSurplusesOShortages.md
+    - ActOfDiscrepancies.md  
+    - AdjustingProductImplementations.md  
+    - RegistrationOfSurplusesOShortages.md  
