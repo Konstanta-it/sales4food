@@ -1,0 +1,7 @@
+title: Розничные продажи
+collapse: false
+arrange:
+    - Retail.md
+    - RetailSales.md
+    - RetailReturns.md
+    - EkweeringOperations.md

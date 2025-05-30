@@ -31,6 +31,7 @@
 - Информация о цене - заполняется из соглашения
 - Дата отгрузки
 - Дата доставки
+- Время доставки
 
 **Вкладка "Товары"**
 
@@ -52,7 +53,7 @@
 - Дата отгрузки - 29.05.2020
 - Дата доставки - 29.05.2020
 
-[![3][3]][3]
+[![3]][3]
 
 Далее переходим к табличной части товары и заполняем её:
 
@@ -184,7 +185,7 @@
 
 [1]: CustomerOrder.assets/1.png
 [2]: CustomerOrder.assets/2.png
-[3]: CustomerOrder.assets/3.png
+[3]: CustomerOrder.assets/26.png
 [4]: CustomerOrder.assets/4.png
 [5]: CustomerOrder.assets/5.png
 [6]: CustomerOrder.assets/6.png

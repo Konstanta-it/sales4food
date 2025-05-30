@@ -1,0 +1,10 @@
+title: Плановая эффективность заказов
+collapse: false
+arrange:
+    - ProfitabilitySettings
+    - PlannedExpenses
+    - PlannedTariffs
+    - TypesOfDeliveryAccounting
+    - RetroBonus
+    - Profitability
+    - Reports

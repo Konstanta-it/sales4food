@@ -9,6 +9,7 @@ arrange:
     - ReceiptOfAdditionalCosts.md
     - OtherExpenses.md
     - CostAllocation.md
+    - RealScenarios
     - InventoryWriteOffAdjustment.md
     - MonthClosing
     - Reports

@@ -72,7 +72,7 @@
 
 [![18][18]][18]
 
-[![19][19]][19]
+[![19]][19]
 
 Данная настройка не позволяет после размещения плана отгрузки в [задании на доставку](DistributionOfShipmentsByCar.md) сделать количество товаров в плане меньше чем в задании на доставку:
 
@@ -111,7 +111,7 @@
 [16]: CreationOfPlansForShipment.assets/16.png
 [17]: CreationOfPlansForShipment.assets/17.png
 [18]: CreationOfPlansForShipment.assets/18.png
-[19]: CreationOfPlansForShipment.assets/19.png
+[19]: CreationOfPlansForShipment.assets/25.png
 [20]: CreationOfPlansForShipment.assets/20.png
 [21]: CreationOfPlansForShipment.assets/21.png
 [22]: CreationOfPlansForShipment.assets/22.png
