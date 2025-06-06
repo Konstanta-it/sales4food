@@ -2,7 +2,7 @@ title: Комиссионная торговля
 collapse: false
 arrange:
     - Settings
-    - CommissionProccess
+    - CommissionProcces
     - SalesReport
     - WriteOffReport
     - Posting
