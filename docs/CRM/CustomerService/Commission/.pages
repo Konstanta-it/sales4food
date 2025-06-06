@@ -1,0 +1,9 @@
+title: Комиссионная торговля
+collapse: false
+arrange:
+    - Settings
+    - CommissionProccess
+    - SalesReport
+    - WriteOffReport
+    - Posting
+    - Reports

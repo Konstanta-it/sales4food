@@ -2,11 +2,12 @@ title: Клиентский сервис
 collapse: false
 arrange:
     - CustomerServiceScheme.md
+    - CustomerInformation.md
     - Pricing
     - FormationOfOrders
     - FormationOfShipments
     - FormationOfAFeedback
-    - CustomerInformation.md
-    - Reports
     - Reservation
     - Degustation
+    - Retail
+    - Reports
