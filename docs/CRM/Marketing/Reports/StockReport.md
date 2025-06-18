@@ -8,9 +8,8 @@
 
 Календарь маркетинговых мероприятий позволяет получить список всех акций за период и всю информацию по ним.
 
-[![4][4]][4]
+![4]
 
 [1]: StockReport.assets/1.png
 [2]: StockReport.assets/2.png
-[3]: StockReport.assets/3.png
-[4]: StockReport.assets/4.png
+[4]: StockReport.assets/5.png
