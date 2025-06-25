@@ -2,10 +2,12 @@ title: Взаиморасчеты
 collapse: false
 arrange:
     - SchemeMutualSettlements.md
+    - SuppliersCalculations
     - PaymentSchedule.md
     - FormationOfDebts.md
     - CashFlowItems.md
     - ReceiptsOfNonCashFunds.md
+    - WritingOffFunds.md
     - IncomingCashOrders.md
     - CashExpenseOrders.md
     - OffsettingOfDebts.md

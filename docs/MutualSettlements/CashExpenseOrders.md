@@ -27,11 +27,32 @@
         На вкладке **"Расшифровка платежа"** табличная часть заполняется следующими данными:
 
         - Основание - [соглашение с контрагентом](../CRM/CustomerService/Pricing/AgreementsWithContractors.md)
-        - Объект расчета - объект по которому будет зачтена оплата от клиента, это могут быть [соглашение с контрагентом](../CRM/CustomerService/Pricing/AgreementsWithContractors.md) или [реализации товаров](../CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts.md)
+        - Объект расчета - объект, по которому будет зачтена оплата от клиента, это может быть [соглашение с контрагентом](../CRM/CustomerService/Pricing/AgreementsWithContractors.md) или [реализации товаров](../CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts.md)
         - Сумма
         - [Статья ДДС](CashFlowItems.md)
 
         [![3][3]][3]
+
+    - ***Оплата поставщику***, в документе заполняются реквизиты:
+
+        - [Организация](../CommonInformation/Organization.md)
+        - [Подразделение](../CommonInformation/Department.md)
+        - Касса
+        - [Контрагент](../CommonInformation/Contractor.md)
+        - Сумма документа
+        - Валюта
+        - Дата платежа
+
+        На вкладке **"Расшифровка платежа"** табличная часть заполняется следующими данными:
+
+        - Основание - [соглашение с контрагентом](../CRM/CustomerService/Pricing/AgreementsWithContractors.md)
+        - Объект расчета - объект, по которому будет зачтена оплата от клиента, это может быть [соглашение с контрагентом](../CRM/CustomerService/Pricing/AgreementsWithContractors.md) или [поступление товаров и услуг](../Purchases/ReceiptOfProducts.md)
+        - Сумма
+        - [Статья ДДС](CashFlowItems.md)    
+
+        Внизу формы по гиперссылке **Детальная расшифровка** можно посмотреть, какие поступление товаров и услуг были оплачены
+
+        ![10]
 
     - ***Прочие расходы***, в документе заполняются поля:
 
@@ -97,3 +118,4 @@
 [7]: CashExpenseOrders.assets/7.png
 [8]: CashExpenseOrders.assets/8.png
 [9]: CashExpenseOrders.assets/9.png
+[10]: CashExpenseOrders.assets/10.png
