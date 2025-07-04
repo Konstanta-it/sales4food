@@ -5,7 +5,6 @@ arrange:
     - TransferOfProductsBetweenOrganizations
     - Purchases
     - Warehouse
-    - Marking
     - Mercury
     - Planning
     - FinancialResults
