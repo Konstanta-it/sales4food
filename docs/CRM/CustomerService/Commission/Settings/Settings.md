@@ -12,7 +12,7 @@
 - [Оприходования товаров у комиссионера](../Posting/Posting.md)
 - [Отчеты комиссионеров о продажах](../SalesReport/SalesReport.md)
 - [Отчеты комиссионеров о списании](../WriteOffReport/WriteOffReport.md)
-- [Передачи товаров на комиссию](../CommissionProcess/CommissionProcess.md)
+- [Передачи товаров на комиссию](../CommissionProcces/CommissionProcess.md)
 
 [![1]][1]
 

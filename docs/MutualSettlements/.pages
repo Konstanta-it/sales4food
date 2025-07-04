@@ -2,7 +2,7 @@ title: Взаиморасчеты
 collapse: false
 arrange:
     - SchemeMutualSettlements.md
-    - SuppliersCalculations
+    - SuppliersCalculations.md
     - PaymentSchedule.md
     - FormationOfDebts.md
     - CashFlowItems.md
