@@ -5,3 +5,5 @@ arrange:
     - CustomerDebt.md
     - StatementOfCashInCashDesks.md
     - CashBalancesAtTheCashDesks.md
+    - SettlementStatementWithSuppliers.md
+    - DebtToSuppliers.md
