@@ -9,7 +9,7 @@
 На вкладке «Основное» указываются:
 - Номер и Дата документа
 - [Организация](../../../../CommonInformation/Organization.md)
-- [Цель](../DegustationOrders/Target.md)
+- [Цель](../Target/Target.md)
 - Инициатор (Пользователь или Физ лицо)
 - [Подразделение](../../../../CommonInformation/Department.md)
 - Получатель ([Точка доставки](../../../../CommonInformation/DeliveryPoint.md) или Физ лицо)
@@ -40,7 +40,7 @@
 - Номер и Дата документа
 - [Организация](../../../../CommonInformation/Organization.md)
 - Основание (документ "Внутренний заказ")
-- [Цель](../DegustationOrders/Target.md)
+- [Цель](../Target/Target.md)
 - Инициатор (Пользователь или Физ лицо)
 - [Подразделение](../../../../CommonInformation/Department.md)
 - Получатель ([Точка доставки](../../../../CommonInformation/DeliveryPoint.md) или Физ лицо)
