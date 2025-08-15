@@ -8,10 +8,8 @@
 
 [![2][2]][2]
 
-Сформируем отчет для периода 01.01.2021 - 30.11.2021, периодичность - Квартал
-
-[![3][3]][3]
+![3]
 
 [1]:CustomerOrders.assets/1.png
 [2]:CustomerOrders.assets/2.png
-[3]:CustomerOrders.assets/3.png
+[3]:CustomerOrders.assets/4.png
