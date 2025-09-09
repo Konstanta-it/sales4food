@@ -4,3 +4,4 @@ arrange:
     - Settings
     - SCP
     - ProcessingReleasePlanning
+    - ApplicationsForProduction
