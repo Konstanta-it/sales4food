@@ -1,3 +1,3 @@
 # SALES4FOOD
 
-[Сайт продукта](<[https://sales4food.ru/]>)
+[Сайт продукта](https://sales4food.ru/)
