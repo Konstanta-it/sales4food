@@ -2,6 +2,7 @@ title: Адресный склад
 collapse: false
 arrange:
     - AdressWarehouse.md
+    - LightAdressWarehouse.md
     - Paletirovanie.md
     - Priemka
     - Peremeshenie
