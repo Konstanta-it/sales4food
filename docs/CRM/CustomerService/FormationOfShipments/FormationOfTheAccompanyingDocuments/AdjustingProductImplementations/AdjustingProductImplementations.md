@@ -12,11 +12,15 @@
 
 Выбираем реализацию товаров по которой будет создаваться корректировка и нажимаем кнопку **"Скорректировать"**. Откроется форма корректировки документа, на которой выбираем вид корректировки:
 
+![2]
+
 - Корректировка первичной накладной - вносятся изменения в документ **"Реализация товаров"**
 - Создание **"Корректировки реализации"** с типом **"Корректировка по соглашению сторон"**
 - Создание **"Корректировки реализации"** с типом **"Исправление ошибок"**
 
-Затем заполняем поля факт для строк номенклатуры по которым необходимы корректировки и указываем причину корректировки(создаются в справочнике **"Причины корректировок документов"**).
+Можно изменить дату создания корректировки реализации
+
+Затем заполняем поля факт для строк номенклатуры по которым необходимы корректировки и указываем причину корректировки (создаются в справочнике **"Причины корректировок документов"**).
 
 Также корректировку можно создавать на основании [заявки на возврат товаров от клиента](../../../FormationOfAFeedback/RequestForReturnOfProducts.md)
 
@@ -25,20 +29,6 @@
 [![15][15]][15]
 
 [1]:AdjustingProductImplementations.assets/1.png
-[2]:AdjustingProductImplementations.assets/2.png
-[3]:AdjustingProductImplementations.assets/3.png
-[4]:AdjustingProductImplementations.assets/4.png
-[5]:AdjustingProductImplementations.assets/5.png
-[6]:AdjustingProductImplementations.assets/6.png
-[7]:AdjustingProductImplementations.assets/7.png
-[8]:AdjustingProductImplementations.assets/8.png
-[9]:AdjustingProductImplementations.assets/9.png
-[10]:AdjustingProductImplementations.assets/10.png
-[11]:AdjustingProductImplementations.assets/11.png
-[12]:AdjustingProductImplementations.assets/12.png
-[13]:AdjustingProductImplementations.assets/13.png
-[14]:AdjustingProductImplementations.assets/14.png
+[2]:AdjustingProductImplementations.assets/19.png
 [15]:AdjustingProductImplementations.assets/15.png
-[16]:AdjustingProductImplementations.assets/16.png
-[17]:AdjustingProductImplementations.assets/17.png
 [18]:AdjustingProductImplementations.assets/18.png

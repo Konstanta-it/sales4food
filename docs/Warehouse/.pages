@@ -5,3 +5,4 @@ arrange:
     - AddressWarehouse
     - LocationOfContainers
     - MovingProducts
+    - Reports
