@@ -38,11 +38,11 @@
 
 [![5][5]][5]
 
-Водительское удостоверение водителя заполняется в [заданиях на доставку](../CRM/CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar.md):
+Водительское удостоверение водителя заполняется в заданиях на доставку:
 
 [![6][6]][6]
 
-Доверенности физического лица указываются в [заданиях на доставку](../CRM/CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar.md) и в [реализациях товаров](../CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts.md). Доверенность подбирается по перевозчику. Если по перевозчику нет доверенности, то выбирается та у которой поле кем выдана заполнено строкой.
+Доверенности физического лица указываются в заданиях на доставку и в реализациях товаров. Доверенность подбирается по перевозчику. Если по перевозчику нет доверенности, то выбирается та у которой поле кем выдана заполнено строкой.
 
 [![7][7]][7]
 
