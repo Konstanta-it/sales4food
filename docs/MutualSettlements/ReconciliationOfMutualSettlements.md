@@ -11,9 +11,9 @@
 - Номер - заполняется автоматически
 - Дата
 - Период за который производится сверка
-- [Организация](../CommonInformation/Organization.md)
-- [Подразделение](../CommonInformation/Department.md)
-- [Контрагент](../CommonInformation/Contractor.md)
+- Организация
+- Подразделение
+- Контрагент
 
 [![2][2]][2]
 

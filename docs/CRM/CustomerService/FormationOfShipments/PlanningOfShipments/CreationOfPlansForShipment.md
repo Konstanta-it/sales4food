@@ -16,9 +16,9 @@
 
 Справа можно заполнить отборы и отобрать заказы по следующим параметрам:
 
-- [Склад](../../../../CommonInformation/Warehouse.md)
-- [Зона доставки](../../../../CommonInformation/ZoneOfDelivery.md)
-- [Получатель](../../../../CommonInformation/Contractor.md)
+- Склад
+- Зона доставки
+- Получатель
 - [Заказ](../../FormationOfOrders/CustomerOrder.md)
 - План отгрузки
 - Заказы без планов отгрузки
