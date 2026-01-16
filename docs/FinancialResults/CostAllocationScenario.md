@@ -45,7 +45,7 @@
 
     - Подразделение
     - Контрагент
-    - [Заказ клиента](../CRM/CustomerService/FormationOfOrders/CustomerOrder.md)
+    - Заказ клиента
     - Аналитика
     - Количество
     - Сумма
@@ -65,10 +65,10 @@
 - Перевозчик
 - Транспортное средство
 - Водитель
-- [Задание на доставку](../CRM/CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar.md)
+- Задание на доставку
 - Холдинг
 - Контрагент
-- [Заказ клиента](../CRM/CustomerService/FormationOfOrders/CustomerOrder.md)
+- Заказ клиента
 - Подразделение
 - Отбор - позволяет установить дополнительные отборы
 - Сортировка - позволяет задать порядок базы

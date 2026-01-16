@@ -53,7 +53,7 @@
     - Перевозчик
     - Транспортное средство
     - Водитель
-    - [Задание на доставку](../CRM/CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar.md)
+    - Задание на доставку
     - Холдинг
     - Контрагент
     - Заказ клиента
@@ -94,7 +94,7 @@
 
 - Подразделение
 - Контрагент
-- [Заказ клиента](../CRM/CustomerService/FormationOfOrders/CustomerOrder.md)
+- Заказ клиента
 - Номенклатура
 - [Статья затрат](ItemsOfExpenditure.md)
 - Аналитика затрат

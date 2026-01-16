@@ -12,7 +12,7 @@
 - Группу статей затрат
 - Тип аналитики, на которую эти затраты будут отнесены
 
-    - [Задание на доставку](../CRM/CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar.md)
+    - Задание на доставку  
     - Контрагенты
     - Маркетинговое мероприятие
     - Номенклатура
