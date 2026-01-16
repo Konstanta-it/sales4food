@@ -3,7 +3,6 @@ collapse: false
 arrange:
     - CustomerServiceScheme.md
     - CustomerInformation.md
-    - Pricing
     - FormationOfOrders
     - FormationOfShipments
     - FormationOfAFeedback

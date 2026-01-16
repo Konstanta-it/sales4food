@@ -1,0 +1,8 @@
+title: Ценообразование
+collapse: false
+arrange:
+    - PricesAndDiscounts.md
+    - TypesOfPrices
+    - SettingPrices
+    - Discounts
+    - Reports

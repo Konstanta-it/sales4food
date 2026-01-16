@@ -1,8 +1,0 @@
-title: Цены и скидки
-collapse: false
-arrange:
-    - PricesAndDiscounts.md
-    - TypesOfPrices.md
-    - SettingPrices.md
-    - Discount.md
-    - Reports.md
