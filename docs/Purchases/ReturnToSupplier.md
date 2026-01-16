@@ -11,12 +11,12 @@
 - Номер - заполняется автоматически
 - Дата
 - Основание - заполняется автоматически, поле будет заполнено только в том случае, если возврат товаров был создан на основании документа [*"Поступление товаров"*](ReceiptOfProducts.md)
-- [Организация](../CommonInformation/Organization.md)
-- [Подразделение](../CommonInformation/Department.md)
-- [Холдинг](../CommonInformation/Holding.md)
-- [Поставщик](../CommonInformation/Contractor.md)
-- [Соглашение](../CRM/CustomerService/Pricing/AgreementsWithContractors.md)
-- [Склад](../CommonInformation/Warehouse.md)
+- Организация
+- Подразделение
+- Холдинг
+- Поставщик
+- Соглашение
+- Склад
 - Информация о цене - заполняется из соглашения
 
 **Вкладка "Товары"**

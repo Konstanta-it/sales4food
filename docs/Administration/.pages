@@ -1,0 +1,6 @@
+title: Администрирование
+collapse: false
+arrange:
+    - Licensing
+    - Versioning
+    - SendingNotifications

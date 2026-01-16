@@ -1,7 +1,10 @@
 arrange:
     - index.md
-    - CommonInformation
-    - CRM
+    - Administration
+    - MasterData
+    - Pricing
+    - MarketingAndSales
+    - CustomerService
     - TransferOfProductsBetweenOrganizations
     - Purchases
     - Warehouse
@@ -10,4 +13,3 @@ arrange:
     - FinancialResults
     - MutualSettlements
     - YardManagement
-    - SendingNotifications

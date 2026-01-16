@@ -10,9 +10,9 @@
 
 - Номер - заполняется автоматически
 - Дата
-- [Организация](../CommonInformation/Organization.md)
-- [Подразделение](../CommonInformation/Department.md)
-- [Контрагент](../CommonInformation/Contractor.md)
+- Организация
+- Подразделение
+- Контрагент
 - Дата списания
 
 [![2][2]][2]

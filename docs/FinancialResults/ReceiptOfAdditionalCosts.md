@@ -10,10 +10,10 @@
 
 Для поступления дополнительных затрат указываются:
 
-- [Поставщик](../CommonInformation/Contractor.md)
-- [Соглашение](../CRM/CustomerService/Pricing/AgreementsWithContractors.md)
-- [Организация](../CommonInformation/Organization.md)
-- [Склад](../CommonInformation/Warehouse.md)
+- Поставщик
+- Соглашение
+- Организация
+- Склад
 - Дата доставки
 
 На вкладке "Товары" указываются [поступления товаров и услуг](../Purchases/ReceiptOfProducts.md), сопровождавшиеся дополнительными расходами, и товары, на себестоимость которых будут распределяться расходы на услуги.

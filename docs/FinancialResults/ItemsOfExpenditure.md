@@ -12,12 +12,12 @@
 - Группу статей затрат
 - Тип аналитики, на которую эти затраты будут отнесены
 
-    - [Задание на доставку](../CRM/CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar.md)
-    - [Контрагенты](../CommonInformation/Contractor.md)
+    - Задание на доставку  
+    - Контрагенты
     - Маркетинговое мероприятие
-    - [Номенклатура](../CommonInformation/Nomenclature.md)
+    - Номенклатура
     - Пользователи
-    - [Товарная категория](../CommonInformation/РroductCategory.md)
+    - Товарная категория
     - Транспортные средства
     - Физические лица
 

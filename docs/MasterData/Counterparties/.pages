@@ -1,0 +1,12 @@
+title: Контрагенты
+collapse: false
+arrange:
+    - Counterparties
+    - NomenclatureOfCounterparties
+    - DeliveryPoints
+    - DeliveryZones
+    - RRSL
+    - DistributionChannels
+    - Holdings
+    - AgreementsWithCounterparties
+    - BusinessRegions
