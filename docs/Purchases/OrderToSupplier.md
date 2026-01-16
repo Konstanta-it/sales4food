@@ -10,12 +10,12 @@
 
 - Номер - заполняется автоматически
 - Дата
-- [Организация](../CommonInformation/Organization.md)
-- [Подразделение](../CommonInformation/Department.md)
-- [Холдинг](../CommonInformation/Holding.md)
-- [Поставщик](../CommonInformation/Contractor.md)
-- [Соглашение](../CRM/CustomerService/Pricing/AgreementsWithContractors.md)
-- [Склад](../CommonInformation/Warehouse.md)
+- Организация
+- Подразделение
+- Холдинг
+- Поставщик
+- Соглашение
+- Склад
 - Информация о цене - заполняется из соглашения
 - Дата доставки
 

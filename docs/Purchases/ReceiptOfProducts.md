@@ -12,12 +12,12 @@
 - Дата
 - Статус: Не принято, Подтверждено, Принято
 - Заказ - заполняется, если *"Поступление товаров"* создается на основании [заказа поставщику](OrderToSupplier.md)
-- [Организация](../CommonInformation/Organization.md)
-- [Подразделение](../CommonInformation/Department.md)
-- [Холдинг](../CommonInformation/Holding.md)
-- [Поставщик](../CommonInformation/Contractor.md)
-- [Соглашение](../CRM/CustomerService/Pricing/AgreementsWithContractors.md)
-- [Склад](../CommonInformation/Warehouse.md)
+- Организация
+- Подразделение
+- Холдинг
+- Поставщик
+- Соглашение
+- Склад
 - Плановая дата поставки
 - Фактическая дата поставки
 - Информация о цене - заполняется из соглашения

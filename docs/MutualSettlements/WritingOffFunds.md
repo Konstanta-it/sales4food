@@ -8,9 +8,9 @@
 
 - Номер - заполняется автоматически при сохранении
 - Дата
-- [Организация](../CommonInformation/Organization.md)
-- [Подразделение](../CommonInformation/Department.md)
-- [Контрагент](../CommonInformation/Contractor.md)
+- Организация
+- Подразделение
+- Контрагент
 - Сумма документа
 - Валюта
 - Дата платежа
@@ -19,8 +19,8 @@
 
 На вкладке **"Расшифровка платежа"** заполняется таблица следующими данными:
 
-- Основание - [соглашение с контрагентом](../CRM/CustomerService/Pricing/AgreementsWithContractors.md)
-- Объект расчета - объект по которому будет зачтена оплата от клиента, это могут быть [соглашение с контрагентом](../CRM/CustomerService/Pricing/AgreementsWithContractors.md), [реализации товаров](../CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts.md) или [поступление товаров и услуг](../Purchases/ReceiptOfProducts.md)
+- Основание - соглашение с контрагентом
+- Объект расчета - объект по которому будет зачтена оплата от клиента, это могут быть соглашение с контрагентом, [реализации товаров](../CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts.md) или [поступление товаров и услуг](../Purchases/ReceiptOfProducts.md)
 - Сумма
 - [Статья ДДС](CashFlowItems.md)
 
