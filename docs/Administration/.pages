@@ -3,3 +3,4 @@ collapse: false
 arrange:
     - Licensing
     - Versioning
+    - SendingNotifications

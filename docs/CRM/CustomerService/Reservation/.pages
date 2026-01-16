@@ -1,7 +1,0 @@
-title: Резервирование
-collapse: false
-arrange:
-    - ReservationSettings
-    - ReservationProcess
-    - ReservationShipment
-    - Reports

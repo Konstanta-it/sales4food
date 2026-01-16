@@ -1,9 +1,9 @@
 title: Маркетинг
 collapse: false
 arrange:
+    - MarketingEvent.md
     - MarketingEventProfiles.md
     - BalanceDays.md
-    - MarketingEvent.md
     - PromShipments.md
     - CompletionMarketingEvent.md
     - Reports

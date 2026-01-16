@@ -3,7 +3,8 @@ arrange:
     - Administration
     - MasterData
     - Pricing
-    - CRM
+    - MarketingAndSales
+    - CustomerService
     - TransferOfProductsBetweenOrganizations
     - Purchases
     - Warehouse

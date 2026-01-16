@@ -1,7 +1,5 @@
-title: CRM
+title: Маркетинг и продажи
 collapse: false
 arrange:
-    - CrmScheme.md
-    - CustomerService
     - SalesPlanning
     - Marketing
