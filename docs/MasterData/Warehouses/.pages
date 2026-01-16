@@ -1,0 +1,5 @@
+title: Склад
+collapse: false
+arrange:
+    - Warehouses
+    - WarehouseTopology

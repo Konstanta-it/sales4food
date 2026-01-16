@@ -1,0 +1,9 @@
+title: Номенклатура
+collapse: false
+arrange:
+    - Nomenclature
+    - TypesOfNomenclature
+    - ProductCategories
+    - Tara
+    - BarcodeLabels
+    - BatchSubmissionTemplate

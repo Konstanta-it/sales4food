@@ -1,6 +1,7 @@
 arrange:
     - index.md
-    - CommonInformation
+    - Administration
+    - MasterData
     - CRM
     - TransferOfProductsBetweenOrganizations
     - Purchases
