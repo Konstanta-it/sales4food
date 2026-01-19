@@ -1,0 +1,6 @@
+title: Нормативно-справочная информация
+collapse: false
+arrange:
+    - TypesOfPrices
+    - PriceSettingSettings
+    - ExcelSettings

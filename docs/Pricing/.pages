@@ -2,7 +2,7 @@ title: Ценообразование
 collapse: false
 arrange:
     - PricesAndDiscounts.md
-    - TypesOfPrices
+    - MasterData
     - SettingPrices
     - Discounts
     - Reports
