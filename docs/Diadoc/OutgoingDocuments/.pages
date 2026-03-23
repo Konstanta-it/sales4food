@@ -1,0 +1,7 @@
+title: Исходящие документы
+collapse: false
+arrange:
+    - OutputDocument.md
+    - BuildPackage.md
+    - FNS970.md
+    - FNS736.md

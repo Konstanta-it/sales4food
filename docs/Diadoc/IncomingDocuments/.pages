@@ -1,0 +1,7 @@
+title: Входящие документы
+collapse: false
+arrange:
+    - RulesMatch.md
+    - AutoMatch.md
+    - MatchNomenclature.md
+    - CreateDocument.md
