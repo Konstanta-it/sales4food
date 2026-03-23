@@ -6,9 +6,10 @@ arrange:
     - Purchases
     - Warehouse
     - Marking
-    - Mercury
     - Planning
     - FinancialResults
     - MutualSettlements
     - YardManagement
     - SendingNotifications
+    - Diadoc
+    - Mercury
