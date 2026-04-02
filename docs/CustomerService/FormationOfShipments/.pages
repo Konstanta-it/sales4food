@@ -2,6 +2,5 @@ title: Формирование отгрузок
 collapse: false
 arrange:
     - FormationOfShipmentsScheme.md
-    - PlanningOfShipments
     - ProductsShipment.md
     - FormationOfTheAccompanyingDocuments

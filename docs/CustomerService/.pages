@@ -5,6 +5,7 @@ arrange:
     - CustomerInformation.md
     - FormationOfOrders
     - OrderProcessing  
+    - PlanningOfShipments
     - FormationOfShipments
     - FormationOfAFeedback
     - CustomerOrders  
