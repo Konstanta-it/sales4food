@@ -1,7 +1,8 @@
 title: Комиссионная торговля
 collapse: false
 arrange:
-    - Settings
+    - Settings  
+    - Pretension
     - CommissionProcces
     - SalesReport
     - WriteOffReport

@@ -4,6 +4,7 @@ arrange:
     - PurchasesPlanning.md
     - OrderToSupplier.md
     - ReceiptOfProducts.md
+    - Pretension  
     - AdjustmentOfReceiptOfProducts.md
     - ReturnToSupplier.md
     - Reports.md

@@ -1,0 +1,6 @@
+title: Клиентские продажи  
+collapse: false
+arrange:
+    - CustomerOrder.md  
+    - Profitability
+    - Pretension
