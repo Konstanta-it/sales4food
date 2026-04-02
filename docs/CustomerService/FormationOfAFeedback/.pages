@@ -3,6 +3,7 @@ collapse: false
 arrange:
     - FormationOfAFeedbackScheme.md
     - Pretension.md
+    - ReturnOfProducts  
     - RequestForReturnOfProducts.md
     - ReturnOfProductsFromTheCustomer.md
     - AcceptanceOfReturnedProducts.md
