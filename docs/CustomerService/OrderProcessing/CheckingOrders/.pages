@@ -1,7 +1,6 @@
 title: Проверки заказов
 collapse: false
 arrange:
-    - CheckingOrders.md
     - CheckingForProductAssortment.md
     - CheckingTheDeliverySchedule.md
     - CheckingAccountsReceivable.md
