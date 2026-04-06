@@ -3,4 +3,6 @@ collapse: false
 arrange:
     - CustomerOrder.md  
     - Profitability
-    - Pretension
+    - Pretension  
+    - AdjustingProductImplementations  
+    - ReturnOfProducts
