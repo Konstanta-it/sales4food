@@ -55,47 +55,47 @@
 
 Для контроля **заказов клиента** используются проверки:
 
-- [Ассортимент товаров](CheckingForProductAssortment.md) - проверяется ассортимент отгружаемых по спецификации соглашения товаров
-- [Время приема заказа](CheckingTheOrderAcceptanceTime.md) - проверка соответствия времени даты заказа с разрешенным временем заказов для складов
-- [График доставки](CheckingTheDeliverySchedule.md) - проверяется соответствие даты доставки заказа графику доставки
-- [Дебиторская задолженность](CheckingAccountsReceivable.md) - проверка того, что не превышена дебиторская задолженность
-- [Допустимая сумма отгрузок](CheckingTheAllowableAmountOfShipments.md) - проверка того, что клиенту отгружается количество товара за день на сумму меньше допустимой суммы отгрузок
-- [Допустимый объем отгрузок](CheckingTheAllowedVolumeOfShipments.md) - проверка того, что клиенту отгружается количество товара меньше допустимого объема отгрузок
-- [Количество дней отсрочки платежа](CheckingTheNumberOfDaysOfDeferredPayment.md) - проверка на наличие задолженности более установленного количества дней от даты последней оплаты
-- [Кратность отгрузки](CheckingTheMultiplicityOfShipments.md) - проверка того, что номенклатура в заказе соответствует кратности
-- [Минимальная сумма](CheckingTheMinimumAmount.md) - проверка того, что заказ был сделан на сумму больше минимальной
-- [Минимальный вес](CheckingTheMinimumWeight.md) - проверка того, что заказ был сделан на вес больше минимального
-- [Просроченная дебиторская задолженность](CheckingOverdueAccountsReceivable.md) - проверка того что у контрагента по соглашению просроченная дебиторская задолженность меньше допустимого значения
-- [Сезонность продукции](CheckingTheSeasonalityOfProducts.md) - продажа сезонного товара осуществляется в установленный сезон
-- [Товар доступен для продаж](CheckingProductAvailabilityForSales.md) - проверка, что товар доступен к продаже  
-- [Цены](CheckingThePrice.md) - проверка соответствия цен из заказа действующим ценам по прайс-листу
-- [Цены EDI](CheckingTheEDIPrice.md) - проверка соответствия цен из заказа ценам EDI 
+- [Ассортимент товаров](CheckingOrders/CheckingForProductAssortment.md) - проверяется ассортимент отгружаемых по спецификации соглашения товаров
+- [Время приема заказа](CheckingOrders/CheckingTheOrderAcceptanceTime.md) - проверка соответствия времени даты заказа с разрешенным временем заказов для складов
+- [График доставки](CheckingOrders/CheckingTheDeliverySchedule.md) - проверяется соответствие даты доставки заказа графику доставки
+- [Дебиторская задолженность](CheckingOrders/CheckingAccountsReceivable.md) - проверка того, что не превышена дебиторская задолженность
+- [Допустимая сумма отгрузок](CheckingOrders/CheckingTheAllowableAmountOfShipments.md) - проверка того, что клиенту отгружается количество товара за день на сумму меньше допустимой суммы отгрузок
+- [Допустимый объем отгрузок](CheckingOrders/CheckingTheAllowedVolumeOfShipments.md) - проверка того, что клиенту отгружается количество товара меньше допустимого объема отгрузок
+- [Количество дней отсрочки платежа](CheckingOrders/CheckingTheNumberOfDaysOfDeferredPayment.md) - проверка на наличие задолженности более установленного количества дней от даты последней оплаты
+- [Кратность отгрузки](CheckingOrders/CheckingTheMultiplicityOfShipments.md) - проверка того, что номенклатура в заказе соответствует кратности
+- [Минимальная сумма](CheckingOrders/CheckingTheMinimumAmount.md) - проверка того, что заказ был сделан на сумму больше минимальной
+- [Минимальный вес](CheckingOrders/CheckingTheMinimumWeight.md) - проверка того, что заказ был сделан на вес больше минимального
+- [Просроченная дебиторская задолженность](CheckingOrders/CheckingOverdueAccountsReceivable.md) - проверка того что у контрагента по соглашению просроченная дебиторская задолженность меньше допустимого значения
+- [Сезонность продукции](CheckingOrders/CheckingTheSeasonalityOfProducts.md) - продажа сезонного товара осуществляется в установленный сезон
+- [Товар доступен для продаж](CheckingOrders/CheckingProductAvailabilityForSales.md) - проверка, что товар доступен к продаже  
+- [Цены](CheckingOrders/CheckingThePrice.md) - проверка соответствия цен из заказа действующим ценам по прайс-листу
+- [Цены EDI](CheckingOrders/CheckingTheEDIPrice.md) - проверка соответствия цен из заказа ценам EDI 
 
 Для контроля **заказов комиссионера** используются проверки:
 
-- [Время приема заказа](CheckingTheOrderAcceptanceTime.md) - проверка соответствия времени даты заказа с разрешенным временем заказов для складов
-- [График доставки](CheckingTheDeliverySchedule.md) - проверяется соответствие даты доставки заказа графику доставки  
-- [Допустимый объем отгрузок](CheckingTheAllowedVolumeOfShipments.md) - проверка того, что клиенту отгружается количество товара меньше допустимого объема отгрузок  
-- [Кратность отгрузки](CheckingTheMultiplicityOfShipments.md) - проверка того, что номенклатура в заказе соответствует кратности  
-- [Сезонность продукции](CheckingTheSeasonalityOfProducts.md) - продажа сезонного товара осуществляется в установленный сезон
-- [Товар доступен для продаж](CheckingProductAvailabilityForSales.md) - проверка, что товар доступен к продаже  
-- [Цены](CheckingThePrice.md) - проверка соответствия цен из заказа действующим ценам по прайс-листу
+- [Время приема заказа](CheckingOrders/CheckingTheOrderAcceptanceTime.md) - проверка соответствия времени даты заказа с разрешенным временем заказов для складов
+- [График доставки](CheckingOrders/CheckingTheDeliverySchedule.md) - проверяется соответствие даты доставки заказа графику доставки  
+- [Допустимый объем отгрузок](CheckingOrders/CheckingTheAllowedVolumeOfShipments.md) - проверка того, что клиенту отгружается количество товара меньше допустимого объема отгрузок  
+- [Кратность отгрузки](CheckingOrders/CheckingTheMultiplicityOfShipments.md) - проверка того, что номенклатура в заказе соответствует кратности  
+- [Сезонность продукции](CheckingOrders/CheckingTheSeasonalityOfProducts.md) - продажа сезонного товара осуществляется в установленный сезон
+- [Товар доступен для продаж](CheckingOrders/CheckingProductAvailabilityForSales.md) - проверка, что товар доступен к продаже  
+- [Цены](CheckingOrders/CheckingThePrice.md) - проверка соответствия цен из заказа действующим ценам по прайс-листу
 
 Для контроля **заказов на перемещение** используются проверки:
 
-- [Время приема заказа](CheckingTheOrderAcceptanceTime.md) - проверка соответствия времени даты заказа с разрешенным временем заказов для складов
-- [График доставки](CheckingTheDeliverySchedule.md) - проверяется соответствие даты доставки заказа графику доставки  
-- [Кратность отгрузки](CheckingTheMultiplicityOfShipments.md) - проверка того, что номенклатура в заказе соответствует кратность  
-- [Сезонность продукции](CheckingTheSeasonalityOfProducts.md) - продажа сезонного товара осуществляется в установленный сезон
-- [Товар доступен для продаж](CheckingProductAvailabilityForSales.md) - проверка, что товар доступен к продаже  
+- [Время приема заказа](CheckingOrders/CheckingTheOrderAcceptanceTime.md) - проверка соответствия времени даты заказа с разрешенным временем заказов для складов
+- [График доставки](CheckingOrders/CheckingTheDeliverySchedule.md) - проверяется соответствие даты доставки заказа графику доставки  
+- [Кратность отгрузки](CheckingOrders/CheckingTheMultiplicityOfShipments.md) - проверка того, что номенклатура в заказе соответствует кратность  
+- [Сезонность продукции](CheckingOrders/CheckingTheSeasonalityOfProducts.md) - продажа сезонного товара осуществляется в установленный сезон
+- [Товар доступен для продаж](CheckingOrders/CheckingProductAvailabilityForSales.md) - проверка, что товар доступен к продаже  
 
-Для контроля **внутренних** используются проверки:
+Для контроля **внутренних заказов** используются проверки:
 
-- [Время приема заказа](CheckingTheOrderAcceptanceTime.md) - проверка соответствия времени даты заказа с разрешенным временем заказов для складов
-- [График доставки](CheckingTheDeliverySchedule.md) - проверяется соответствие даты доставки заказа графику доставки  
-- [Кратность отгрузки](CheckingTheMultiplicityOfShipments.md) - проверка того, что номенклатура в заказе соответствует кратность  
-- [Сезонность продукции](CheckingTheSeasonalityOfProducts.md) - продажа сезонного товара осуществляется в установленный сезон
-- [Товар доступен для продаж](CheckingProductAvailabilityForSales.md) - проверка, что товар доступен к продаже  
+- [Время приема заказа](CheckingOrders/CheckingTheOrderAcceptanceTime.md) - проверка соответствия времени даты заказа с разрешенным временем заказов для складов
+- [График доставки](CheckingOrders/CheckingTheDeliverySchedule.md) - проверяется соответствие даты доставки заказа графику доставки  
+- [Кратность отгрузки](CheckingOrders/CheckingTheMultiplicityOfShipments.md) - проверка того, что номенклатура в заказе соответствует кратность  
+- [Сезонность продукции](CheckingOrders/CheckingTheSeasonalityOfProducts.md) - продажа сезонного товара осуществляется в установленный сезон
+- [Товар доступен для продаж](CheckingOrders/CheckingProductAvailabilityForSales.md) - проверка, что товар доступен к продаже  
 
 [1]: CheckingOrders.assets/1.png
 [2]: CheckingOrders.assets/2.png
