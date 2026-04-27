@@ -1,0 +1,6 @@
+title: Настройка подключаемого модуля
+collapse: false
+arrange:
+    - Diadoc.md
+    - Connection.md
+    - SettingsOrganizations.md

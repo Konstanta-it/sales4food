@@ -1,11 +1,14 @@
-title: Клиентский сервис
+title: Клиентский сервис  
 collapse: false
 arrange:
     - CustomerServiceScheme.md
     - CustomerInformation.md
     - FormationOfOrders
+    - OrderProcessing  
+    - PlanningOfShipments
     - FormationOfShipments
     - FormationOfAFeedback
+    - CustomerOrders  
     - Reservation
     - Degustation
     - Commission

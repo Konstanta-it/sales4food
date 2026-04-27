@@ -1,7 +1,0 @@
-title: Обработка заказов
-collapse: false
-arrange:
-    - Profitability
-    - CheckingOrders
-    - ApprovalOfShipments.md
-    - OrderConfirmation.md

@@ -1,0 +1,5 @@
+title: Возврат товаров  
+collapse: false  
+arrange:  
+    - ReturnOfProducts.md  
+    - AcceptanceOfReturnedProducts.md  

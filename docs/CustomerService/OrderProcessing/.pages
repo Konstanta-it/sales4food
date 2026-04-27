@@ -1,0 +1,7 @@
+title: Обработка заказов
+collapse: false
+arrange:
+    - CheckingOrders.md
+    - CheckingOrders
+    - ApprovalOfShipments.md
+    - OrderConfirmation.md
