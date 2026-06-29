@@ -1,0 +1,9 @@
+title: ЭДО
+collapse: false
+arrange:
+    - Settings.md
+    - OrganizationSettings.md
+    - CounterpartiesSettings.md  
+    - StatusLog.md
+    - SettingsRegistry.md
+    - Reports
