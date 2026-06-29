@@ -3,4 +3,6 @@ collapse: false
 arrange:
     - Diadoc.md
     - Connection.md
-    - SettingsOrganizations.md
+    - SettingsOrganizations.md  
+    - CorrespondenceOfStates.md  
+    - ScheduledTask.md  
