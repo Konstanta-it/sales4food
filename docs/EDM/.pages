@@ -2,4 +2,5 @@ title: ЭДО
 collapse: false
 arrange:
     - Settings
-    - Diadoc  
+    - KonturDiadoc  
+    - KonturEDI

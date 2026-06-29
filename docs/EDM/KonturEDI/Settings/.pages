@@ -1,8 +1,7 @@
 title: Настройка подключаемого модуля
 collapse: false
 arrange:
-    - Diadoc.md
-    - Connection.md
-    - SettingsOrganizations.md  
+    - MainInformation.md
+    - Connection.md 
     - CorrespondenceOfStates.md  
     - ScheduledTask.md  
