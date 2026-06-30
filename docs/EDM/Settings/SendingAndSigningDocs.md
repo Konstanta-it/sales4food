@@ -1,9 +1,9 @@
 # АРМ Отправка и подписание документов
 
 Для подписания и отправки электронных документов в системе предусмотрен АРМ Отправка и подписание документов, в который можно перейти по кнопке из следующих АРМов :  
-- [Рабочее место менеджера по доставке](../../../CustomerService/PlanningOfShipments/DistributionOfShipmentsByCar.md);  
-- [Формирование накладных](../../../CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts.md);  
-- [Возврат и корректировка накладных](../../../CustomerService/FormationOfAFeedback/AdjustingProductImplementations/AdjustingProductImplementations.md).  
+- [Рабочее место менеджера по доставке](../../CustomerService/PlanningOfShipments/DistributionOfShipmentsByCar.md);  
+- [Формирование накладных](../../CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts.md);  
+- [Возврат и корректировка накладных](../../CustomerService/FormationOfAFeedback/AdjustingProductImplementations/AdjustingProductImplementations.md).  
 
 *Вкладка АРМа ЭДО доступна при активной настройке Включен EDI, вкладка АРМа Логистика доступна при активной настройке Использовать транспортный документооборот.*
 
