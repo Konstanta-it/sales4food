@@ -3,4 +3,5 @@ collapse: false
 arrange:
     - Settings
     - KonturDiadoc  
-    - KonturEDI
+    - KonturEDI  
+    - KonturLogistics

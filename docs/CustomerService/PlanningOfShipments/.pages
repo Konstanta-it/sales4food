@@ -1,6 +1,7 @@
 title: Планирование отгрузок
 collapse: false
 arrange:
-    - CreationOfPlansForShipment.md
+    - CreationOfPlansForShipment.md  
+    - Reservation
     - TemplateRoute
     - DistributionOfShipmentsByCar.md
