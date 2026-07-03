@@ -1,0 +1,7 @@
+title: Отчеты
+collapse: false
+arrange:
+    - LoadedOrders.md  
+    - DiscrepanciesAfterAcceptance.md  
+    - ChainStatus.md  
+    - ComparisonOfOrderPricesWithEDIPrices.md  

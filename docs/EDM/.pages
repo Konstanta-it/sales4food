@@ -1,0 +1,7 @@
+title: ЭДО
+collapse: false
+arrange:
+    - Settings
+    - KonturDiadoc  
+    - KonturEDI  
+    - KonturLogistics

@@ -9,7 +9,6 @@ arrange:
     - FormationOfShipments
     - FormationOfAFeedback
     - CustomerOrders  
-    - Reservation
     - Degustation
     - Commission
     - Retail

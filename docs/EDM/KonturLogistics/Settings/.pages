@@ -1,0 +1,5 @@
+title: Настройки подключаемого модуля
+collapse: false
+arrange:
+    - Connection.md  
+    - CorrespondenceOfStates.md  

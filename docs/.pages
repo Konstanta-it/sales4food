@@ -9,8 +9,7 @@ arrange:
     - Purchases
     - Warehouse
     - Mercury
-    - Planning
     - FinancialResults
     - MutualSettlements
     - YardManagement
-    - Diadoc
+    - EDM

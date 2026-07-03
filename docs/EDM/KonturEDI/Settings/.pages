@@ -1,0 +1,7 @@
+title: Настройка подключаемого модуля
+collapse: false
+arrange:
+    - MainInformation.md
+    - Connection.md 
+    - CorrespondenceOfStates.md  
+    - ScheduledTask.md  

@@ -1,0 +1,10 @@
+title: Использование ЭДО в системе  
+collapse: false
+arrange:
+    - Settings.md
+    - OrganizationSettings.md
+    - CounterpartiesSettings.md  
+    - StatusLog.md
+    - SettingsRegistry.md  
+    - SendingAndSigningDocs.md
+    - Reports
