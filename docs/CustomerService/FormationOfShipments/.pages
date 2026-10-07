@@ -3,4 +3,5 @@ collapse: false
 arrange:
     - FormationOfShipmentsScheme.md
     - ProductsShipment.md
+    - GISMT
     - FormationOfTheAccompanyingDocuments
