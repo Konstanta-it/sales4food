@@ -2,8 +2,10 @@ title: Комиссионная торговля
 collapse: false
 arrange:
     - Settings  
+    - CommissionOrders
+    - CommissionProcess  
     - Pretension
-    - CommissionProcces
+    - ReturnOfProducts
     - SalesReport
     - WriteOffReport
     - Posting
